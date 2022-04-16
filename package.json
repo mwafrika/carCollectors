@@ -13,19 +13,20 @@
     "lintFix:css": "stylelint ./src/*.{css,scss} --fix",
     "test": "jest",
     "test:watch": "jest --watch",
-    "deploy": "gh-pages -d dist"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b deploy -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sboursen/mv-modules2-capstone.git"
+    "url": "git+https://github.com/mwafrika/carCollectors.git"
   },
   "keywords": [],
   "author": "Sboursen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Sboursen/mv-modules2-capstone/issues"
+    "url": "https://github.com/mwafrika/carCollectors/issues"
   },
-  "homepage": "https://github.com/Sboursen/mv-modules2-capstone#readme",
+  "homepage": "https://github.com/mwafrika/carCollectors#readme",
   "devDependencies": {
     "@babel/core": "^7.17.5",
     "@babel/plugin-transform-runtime": "^7.17.0",
