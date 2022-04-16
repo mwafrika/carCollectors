@@ -32,17 +32,23 @@
 
 #### Use the live Website
 
-[CarCollectors Website](https://sboursen.github.io/MV-Module2-capstone/)
+[CarCollectors Website](https://mwafrika.github.io/carCollectors/)
 
 ### **Option 2**
 
 #### Set up your own copy locally
 
-- Clone [the GitHub Repository](https://github.com/Sboursen/MV-Module2-capstone)
+- Clone [the GitHub Repository](https://github.com/mwafrika/carCollectors)
 - Go to the Project `cd MV-Module2-capstone`
 - Run `npm install` to install the _dependencies_ Run `npm run start` to run the live server.
 
 ## Authors
+
+👤 **Mwafrika Josué**
+
+- GitHub: [@mwafrika](https://github.com/mwafrika)
+- Gmail: [@mwafrika](mwafrikajosue@gmail.com)
+- LinkedIn: [@mwafrika-mufungizi](https://www.linkedin.com/in/mwafrika-mufungizi/)
 
 👤 **Soufiane Boursen**
 
@@ -55,12 +61,6 @@
 - GitHub: [@jerryowusu](https://github.com/jerryowusu)
 - Gmail: [@jerryowusu](jerryowusu6133@gmail.com)
 - LinkedIn: [@jeremiah-owusu](https://www.linkedin.com/in/jeremiah-owusu-b50a70173/)
-
-👤 **Mwafrika Josué**
-
-- GitHub: [@mwafrika](https://github.com/mwafrika)
-- Gmail: [@mwafrika](mwafrikajosue@gmail.com)
-- LinkedIn: [@mwafrika-mufungizi](https://www.linkedin.com/in/mwafrika-mufungizi/)
 
 ## Contributors
 
